@@ -1,0 +1,18 @@
+[project]
+name = "projet-deeplearning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "easyocr>=1.7.2",
+    "lap>=0.5.13",
+    "opencv-python>=4.13.0.92",
+    "paddleocr>=3.5.0",
+    "paddlepaddle>=3.3.1",
+    "pillow>=12.2.0",
+    "plotly>=6.7.0",
+    "streamlit>=1.56.0",
+    "streamlit-option-menu>=0.4.0",
+    "ultralytics>=8.4.41",
+]
